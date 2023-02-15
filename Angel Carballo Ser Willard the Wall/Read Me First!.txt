@@ -1,0 +1,16 @@
+Hello there!
+
+This is my first ever program and I do hope you enjoyed it! A lot of fun was
+had and as you can see I am a programmer of below-novice level, but I intend
+on becoming a better programmer and game designer in the future.
+
+To play the game, open the file named "three.py", preferably on PyCharm 
+and running it in the program. Reason being that Command Prompt did not allow
+my game to be played the same way that PyCharm runs it.
+
+I understand that the game is nothing to boast and that it did not follow the rules
+but I did learn many things about programming. I look forward to learning more.
+
+Have Fun!!
+
+-Angel M. Carballo
